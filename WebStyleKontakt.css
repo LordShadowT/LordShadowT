@@ -1,0 +1,17 @@
+a{
+	color: #00FF00;
+}
+
+.everything{
+	background-color:#151515;
+	color:#00FF00;
+	font-family: initial;
+}
+
+hr{
+	border:solid #00FF00 1px; 
+}
+
+h1{
+	text-align: center;
+}

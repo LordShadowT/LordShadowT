@@ -1,0 +1,32 @@
+a{
+	color: #00FF00;
+}
+
+.everything{
+	background-color:#151515;
+	color:#00FF00;
+	font-family: initial;
+	font-size: 100%;
+	list-style: none;
+}
+
+.nearly-everything{
+	text-align: center;
+}
+
+hr{
+	border:solid #00FF00 1px; 
+}
+
+.everything ul li{
+	height: auto;
+	width: 30%;
+	float: left;
+	list-style: none;
+	margin: 1.66666666666666%;
+	text-align: center;
+	min-height: 20%;
+}
+ul{
+	padding: 0%;
+}
